@@ -76,3 +76,9 @@ pyinstaller --onefile filename.py
 ```
 
 This will create an executable in the `dist` folder of your project.
+
+## Language
+
+ <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+</div>
