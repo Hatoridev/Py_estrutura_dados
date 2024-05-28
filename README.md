@@ -77,8 +77,27 @@ pyinstaller --onefile filename.py
 
 This will create an executable in the `dist` folder of your project.
 
+#### Additional Steps for Termux (Android):
+To use PyInstaller in Termux, you need to install additional packages:
+
+1. Open the Termux app.
+2. Run the following commands:
+   ```bash
+   pkg install ldd
+   pkg install binutils
+   pip install pyinstaller
+   ```
+
+Then, navigate to your project directory and run the following command to create the executable:
+
+```bash
+pyinstaller --onefile filename.py
+```
+
 ## Language
 
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
 </div>
+
+---
