@@ -149,11 +149,3 @@ pyinstaller --onefile filename.py
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
 </div>
-
-## Library
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tkinter/tkinter-original.svg" height="60" alt="tkinter logo" />
-</div>
-
----
